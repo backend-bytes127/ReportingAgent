@@ -1,0 +1,24 @@
+[
+    {
+        "ticket_id": "1b4f05b2-376b-4ffe-8dcf-c50ccc6ce23b",
+        "issue": "Data is missing the column 'address'.",
+        "reporter_name": "Neeraj Sujan",
+        "email": "nrj127@gmail.com",
+        "priority": "Medium",
+        "attachments": "",
+        "department": "Engineering",
+        "noticed_at": "20.07.2024",
+        "status": "Open"
+    },
+    {
+        "ticket_id": "a2a5fdd4-caf0-4206-9efb-eeb68f26d375",
+        "issue": "Data corruption issue",
+        "reporter_name": "Neeraj Sujan",
+        "email": "nrj127@gmail.com",
+        "priority": "Medium",
+        "attachments": "None",
+        "department": "Sales",
+        "noticed_at": "July 21, 2024",
+        "status": "Open"
+    }
+]
